@@ -1,6 +1,6 @@
 # Smart Trash Can
 
-![Smart Trash Can prototype](images/smart_trash_can.jpeg)
+<img src="images/smart_trash_can.jpeg" alt="Smart Trash Can prototype" width="400">
 
 An Arduino Uno prototype that measures the fill level of a trash bin in real time and displays the percentage and status through an LCD screen and an RGB LED indicator.
 
